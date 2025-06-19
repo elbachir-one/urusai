@@ -27,6 +27,12 @@ Urusai (Japanese for 'noisy') is your digital privacy companion that generates r
 
 ## 📥 Installation
 
+### Arch Linux (AUR)
+
+   ```bash
+   yay -S urusai
+   ```
+
 ### 📦 Using Pre-built Binaries
 
 The easiest way to get started is to download a pre-built binary from the [releases page](https://github.com/calpa/urusai/releases) 🚀
